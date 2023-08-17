@@ -11,7 +11,7 @@
 - 📫 How to reach me: hakim.allaoui97@gmail.com
 - ⚡ How it's going: I'm <!--BR-->OK<!--EN--> 🙂
 
-[![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakim-Allaoui)](https://github.com/Hakim-Allaoui/github-readme-stats)
+![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakim-Allaoui&show_icons=true&theme=dracula)
 
 - 
 <!--

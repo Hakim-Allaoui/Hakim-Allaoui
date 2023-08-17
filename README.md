@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<!--### Hi there 👋-->
+
+- 👋 Hi, I’m @Hakim-Allaoui
+- 👀 I’m interested in Android, Flutter, UI/UX Design...
+- 🌱 I’m currently learning Laravel
+- 🤔 I’m looking for help with monetizing Flutter apps
+- 💞️ I’m looking to collaborate on Mobile apps projects
+- 😄 Pronouns: Amegos
+- 📫 How to reach me: hakim.allaoui97@gmail.com
+- ⚡ How it's going: I'm <!--BR-->OK<!--EN--> 🙂
+
+[![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakim-Allaoui)](https://github.com/Hakim-Allaoui/github-readme-stats)
+
+- 
 <!--
 **Hakim-Allaoui/Hakim-Allaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

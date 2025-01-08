@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 - 🎓 **Profession**: Mobile Developer with expertise in Flutter & UI/UX Design.  
 - 📚 **Currently Learning**: Laravel to expand backend development skills.  
 - 🤝 **Open to Collaborations**: Mobile app projects.  
-- ✍️ **Portfolio**: [Your Portfolio Link](https://hakim-allaoui.github.io/)  
+- ✍️ **Portfolio**: [Link](https://hakim-allaoui.github.io/)  
 - 📧 **Reach Me**: hakim.allaoui97@gmail.com  
 
 ## 🔧 Technical Skills  
